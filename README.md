@@ -1,8 +1,6 @@
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/6b38a99f-5c20-4536-9eff-8ac438ff037c" />
 # GitHub × Jenkins — Automated CI/CD Pipeline Dashboard
 
-![CI/CD Dashboard Screenshot](screenshots/dashboard.png)
-
 A web-based dashboard for my automated CI/CD pipeline using **GitHub, Jenkins, Docker, Docker Hub, and AWS EC2**. The project demonstrates how a code change pushed to GitHub can automatically trigger a Jenkins pipeline, build a Docker image, publish it to Docker Hub, and deploy the updated website on an AWS EC2 instance.
 
 ## Overview
